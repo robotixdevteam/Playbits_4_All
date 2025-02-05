@@ -1,0 +1,10 @@
+<!-- res/drawable/small_circle_button.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval">
+    <size
+        android:width="20dp"
+        android:height="20dp" /> <!-- Set width and height to the same value to make it round -->
+    <stroke
+        android:width="4dp"
+        android:color="#48484A" /> <!-- Optional: Add border -->
+</shape>

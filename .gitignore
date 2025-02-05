@@ -1,0 +1,59 @@
+# Built application files
+*.apk
+*.aab
+*.ap_
+
+# Gradle files
+.gradle/
+build/
+**/build/
+
+# Local configuration files
+/local.properties
+/.idea/
+
+# Keystore files (important for signing, should not be committed)
+*.keystore
+*.jks
+
+
+# jar
+/libs/
+/caches/
+
+libs/*.jar
+caches/*.jar
+
+
+# Android Studio & IntelliJ project files
+*.iml
+*.iws
+*.ipr
+/.idea/
+
+# Log files
+*.log
+/logs/
+
+# Generated files by Android Studio
+captures/
+output.json
+
+# Temporary files
+*.swp
+*.swo
+*.DS_Store
+
+# macOS system files
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux system files
+*.pid
+*.seed

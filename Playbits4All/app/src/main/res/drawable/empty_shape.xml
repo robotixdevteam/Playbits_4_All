@@ -1,0 +1,5 @@
+<!-- res/drawable/empty_shape.xml -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Empty shape, you can customize it as needed -->
+    <item android:drawable="@android:color/transparent" />
+</layer-list>
